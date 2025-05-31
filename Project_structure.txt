@@ -1,0 +1,20 @@
+multi-agent-system/
+│
+├── agents/
+│   ├── classifier_agent.py
+│   ├── pdf_agent.py
+│   ├── json_agent.py
+│   └── email_agent.py
+│
+├── memory/
+│   └── memory_store.py
+│
+├── input_samples/
+│   ├── sample_invoice.pdf
+│   ├── sample_email.txt
+│   └── sample_json.json
+│
+├── main.py
+├── .env
+├── requirements.txt
+└── README.md

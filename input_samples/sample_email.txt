@@ -1,0 +1,12 @@
+From: customer@example.com
+To: support@company.com
+Subject: Complaint about delayed delivery
+
+Dear Support Team,
+
+I am writing to complain about the delay in delivery of my recent order #12345. The order was supposed to arrive two weeks ago but still hasn't been delivered.
+
+Please look into this issue urgently.
+
+Best regards,
+John Doe
