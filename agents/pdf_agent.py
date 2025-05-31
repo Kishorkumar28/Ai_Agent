@@ -13,10 +13,10 @@ def process_pdf(file_path):
         text += page.get_text()
     doc.close()
 
-    # 🔍 Use LLaMA to detect intent instead of regex
+   
     intent = detect_intent_with_llama(text)
 
-    # 🔢 Try to extract invoice number using regex
+
     invoice_number = None
     invoice_match = re.search(r"Invoice Number[:\s]*([A-Za-z0-9-]+)", text, re.IGNORECASE)
     if invoice_match:

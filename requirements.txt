@@ -4,7 +4,7 @@ together
 PyPDF2
 fpdf
 
-# Optional (for future extension or Redis support)
+
 redis
 
 # If you're using Python 3.10+, this should work without issues.
